@@ -1,0 +1,72 @@
+/*************************************************
+ *  An Example Green Theme for Hugo Academic
+ *  Set `custom_css = ["green.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+a,
+a:visited,
+h3.article-title a:hover {
+    color: rgb(185,10,21);
+}
+
+a:hover {
+    color: rgb(185,10,21);
+}
+
+.navbar-default .navbar-nav li a:hover,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover
+.btn-primary,
+.btn-primary.btn-outline {
+    color: rgb(185,10,21);
+}
+
+/* Articles */
+
+.article-title a {
+    color: rgb(185,10,21);
+}
+
+.article-metadata a {
+    color: rgb(185,10,21);
+}
+
+.article-metadata a:hover {
+    color: rgb(185,10,21);
+}
+
+/* Standard buttons */
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: rgb(185,10,21);
+}
+
+/* Hover buttons */
+
+.btn-primary.btn-outline:hover {
+    border-color: rgb(185,10,21);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.btn-primary.btn-outline:active {
+    background-color: rgb(185,10,21);
+}
+
+/* Fonts and Sizes */
+body {
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: inherit;
+  color: inherit;
+  margin-top: 71px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}
