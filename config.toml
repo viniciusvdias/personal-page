@@ -12,8 +12,6 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
-
-
 [params]
   name = "Vinicius Dias"
   role = "Master's Student"
