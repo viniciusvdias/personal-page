@@ -14,8 +14,8 @@ googleAnalytics = ""
 
 [params]
   name = "Vinicius Dias"
-  role = "Master's Student"
-  organization = "Universidade Federal de Minas Gerais"
+  role = ""
+  organization = "Computer Science Department, UFMG, Brazil"
   avatar = "profile3-squared.jpg"
   email = "viniciusvdias@dcc.ufmg.br"
   address = "Speed Lab, Universidade Federal de Minas Gerais, Belo Horizonte, BRA."
@@ -33,7 +33,7 @@ googleAnalytics = ""
   math = false
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -83,6 +83,9 @@ googleAnalytics = ""
     icon = "facebook"
     icon_pack = "fa"
     link = "//facebook.com/vvsdias"
+  
+  [[params.social]]
+    link = "//facebook.com/vvsdias"
 
 
 # Navigation Links
@@ -109,11 +112,11 @@ googleAnalytics = ""
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 4
-#
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"

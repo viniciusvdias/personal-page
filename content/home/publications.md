@@ -7,8 +7,7 @@ draft = false
 
 title = "Publications"
 subtitle = ""
-widget = "publications"
-size = 10
+widget = "custom_publications"
 
 # Order that this section will appear in.
 weight = 20
@@ -26,7 +25,6 @@ str_all = "More Publications"
 
 #### More
 
-- <a href="doc/viniciusvdias_cv.pdf" target="_blank">My CV</a>
-
-- <a href="http://lattes.cnpq.br/2203331147452803" target="_blank">My CV on <i>Lattes Platform</i></a>
+<a class="btn btn-primary btn-outline btn-xs" href="doc/viniciusvdias_cv.pdf" target="_blank">My CV</a>
+<a class="btn btn-primary btn-outline btn-xs" href="http://lattes.cnpq.br/2203331147452803" target="_blank">My CV on <i>Lattes Platform</i></a>
 

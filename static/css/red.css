@@ -8,11 +8,11 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 a:hover {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 .navbar-default .navbar-nav li a:hover,
@@ -21,49 +21,53 @@ a:hover {
 .navbar-default .navbar-nav>.active>a:hover
 .btn-primary,
 .btn-primary.btn-outline {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 /* Articles */
 
 .article-title a {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 .article-metadata a {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 .article-metadata a:hover {
-    color: rgb(185,10,21);
+    color: rgb(222,45,38);
 }
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: rgb(185,10,21);
+    border-color: rgb(222,45,38);
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: rgb(185,10,21);
+    border-color: rgb(222,45,38);
 }
 
 .btn-primary:hover,
-.btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: rgb(185,10,21);
+    background-color: rgb(222,45,38);
+}
+
+.btn-primary:focus {
+    background-color: rgb(222,45,38);
+    color: rgb(256,256,256);
 }
 
 /* Fonts and Sizes */
 body {
   font-family: inherit;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */

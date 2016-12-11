@@ -1,21 +1,22 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = []
-date = "2013-07-01"
+authors = ["Vinicius Dias", "Rubens Moreira", "Wagner Meira Jr.",
+   "Dorgival Guedes"]
+date = ""
 image = ""
 image_preview = ""
 math = true
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = ""
+publication_short = "CCGrid 2016"
 selected = true
 title = "Diagnosing Performance Bottlenecks in Massive Data Parallel Programs"
 url_code = "#"
 url_pdf = "doc/ccgrid2016.pdf"
 url_slides = "#"
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = "http://www.example.org"
+[[url_custom]]
+name = "doi"
+url = "http://dx.doi.org/10.1109/CCGrid.2016.81"
 
 +++
