@@ -2,7 +2,6 @@
 abstract = ""
 abstract_short = ""
 authors = ["Vinicius Dias", "Dorgival Guedes"]
-date = ""
 image = ""
 image_preview = ""
 math = true

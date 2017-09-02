@@ -116,9 +116,9 @@ googleAnalytics = "UA-88914386-1"
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4

@@ -3,7 +3,6 @@ abstract = ""
 abstract_short = ""
 authors = ["Vinicius Dias", "Rubens Moreira", "Wagner Meira Jr.",
    "Dorgival Guedes"]
-date = ""
 image = ""
 image_preview = ""
 math = true

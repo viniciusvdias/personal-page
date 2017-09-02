@@ -7,7 +7,7 @@ subtitle = ""
 widget = "custom_talks"
 
 # Order that this section will appear in.
-weight = 20
+weight = 3
 
 # Number of publications to list.
 count = 2
