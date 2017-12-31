@@ -13,8 +13,8 @@ weight = 1
   title = "Research Interests"
   interests = [
     "Distributed Systems",
-    "Operating Systems",
-    "Computer Networks"
+    "Graph Mining",
+    "Operating Systems"
   ]
 
 ## List your qualifications (such as academic degrees).
@@ -35,8 +35,10 @@ weight = 1
 
 ### About Me
 
-I am a master's student in the Computer Science Department (DCC) at
-Federal University of Minas Gerais (UFMG), Brazil. Before that I received my B.Sc. in
+I am a Ph.D. candidate in the Computer Science Department (DCC) at
+Federal University of Minas Gerais (UFMG), Brazil.
+Before that I received my M.Sc. at the same institution.
+And before that I received my B.Sc. in
 Computer Science from Federal University of Uberlândia (UFU), Brazil.
 
 Broadly, I am interested in research problems concerning systems'
@@ -55,6 +57,15 @@ resources are more important throughout tasks' execution?
    - Which would be the gains (if any) in doing that, considering modern operating
 systems?
 
+- **Scalable (Single-)Graph Pattern Mining:** Graph pattern mining is every task that
+  regards discovering, matching, searching and summarizing "interesting" subgraph
+  structures from a single (large) input graph. Instead of worrying about
+  definitions of what is "interesting", I am personally interested in the
+  development of execution models for supporting those kind of computations.
+  Last but not least, given the [combinatorial nature](https://en.wikipedia.org/wiki/Graph_enumeration),
+  I would like to find out how far we can abstract models without
+  serious performance degradation, and how expressive those models can be in
+  order to facilitate the implementation of graph mining algorithms.
 
 - **Multi-Resource Characterization in Parallel Programs:**
 Parallel processing frameworks perform computation by statically requesting
